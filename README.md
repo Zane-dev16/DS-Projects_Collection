@@ -10,6 +10,12 @@ Here's a list of projects included in this collection:
 
 3. **[SVMs](https://github.com/Zane-dev16/Support-Vector-Machines)**
 
-4. **[Machine Learning Regression](https://github.com/Zane-dev16/ML-Regression-Notebooks)**
+4. **[Machine Learning Regressions](https://github.com/Zane-dev16/ML-Regression-Notebooks)**
+
+5. **[Sign Language Detector](https://github.com/Zane-dev16/Sign-Language-Detector)**
+
+6. **[California Housing Price Predictor](https://github.com/Zane-dev16/California-Housing-ML)**
+
+7.  **[MNIST Classification](https://github.com/Zane-dev16/Classifying-the-MNIST)**
 
 Each project repository contains more details in each one's individual README
