@@ -1,4 +1,4 @@
-# Data-Science-Projects_Collection
+# Data-Science-Projects-Collection
 
 Welcome to the Data Science Projects Collection repository! This README serves as an index for my various data science projects and machine learning projects.
 
