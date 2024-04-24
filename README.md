@@ -4,18 +4,20 @@ Welcome to the Data Science Projects Collection repository! This README serves a
 
 Here's a list of projects included in this collection:
 
-1. **[Ensemble Learning Notebooks](https://github.com/Zane-dev16/Ensemble-Learning-Notebooks)**
+* **[Dimensionality Reduction Notebooks](https://github.com/Zane-dev16/DS-Projects_Collection)**
 
-2. **[Decision Tress](https://github.com/Zane-dev16/Decision-Trees)**
+* **[Ensemble Learning Notebooks](https://github.com/Zane-dev16/Ensemble-Learning-Notebooks)**
 
-3. **[SVMs](https://github.com/Zane-dev16/Support-Vector-Machines)**
+* **[Decision Tress](https://githu*com/Zane-dev16/Decision-Trees)**
 
-4. **[Machine Learning Regressions](https://github.com/Zane-dev16/ML-Regression-Notebooks)**
+* **[SVMs](https://github.com/Zane-dev16/Support-Vector-Machines)**
 
-5. **[Sign Language Detector](https://github.com/Zane-dev16/Sign-Language-Detector)**
+* **[Machine Learning Regressions](https://github.com/Zane-dev16/ML-Regression-Notebooks)**
 
-6. **[California Housing Price Predictor](https://github.com/Zane-dev16/California-Housing-ML)**
+* **[Sign Language Detector](https://github.com/Zane-dev16/Sign-Language-Detector)**
 
-7.  **[MNIST Classification](https://github.com/Zane-dev16/Classifying-the-MNIST)**
+* **[California Housing Price Predictor](https://github.com/Zane-dev16/California-Housing-ML)**
+
+* **[MNIST Classification](https://github.com/Zane-dev16/Classifying-the-MNIST)**
 
 Each project repository contains more details in each one's individual README
