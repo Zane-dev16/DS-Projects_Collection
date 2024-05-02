@@ -4,11 +4,11 @@ Welcome to the Data Science Projects Collection repository! This README serves a
 
 Here's a list of projects included in this collection:
 
-* **[Dimensionality Reduction Notebooks](https://github.com/Zane-dev16/DS-Projects_Collection)**
+* **[Dimensionality Reduction Notebooks](https://github.com/Zane-dev16/Dimensionality-Reduction-Notebooks)**
 
 * **[Ensemble Learning Notebooks](https://github.com/Zane-dev16/Ensemble-Learning-Notebooks)**
 
-* **[Decision Tress](https://githu*com/Zane-dev16/Decision-Trees)**
+* **[Decision Tress](https://github.com/Zane-dev16/Decision-Trees)**
 
 * **[SVMs](https://github.com/Zane-dev16/Support-Vector-Machines)**
 
