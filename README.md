@@ -4,6 +4,8 @@ Welcome to the Data Science Projects Collection repository! This README serves a
 
 Here's a list of projects included in this collection:
 
+* **[FashionMNIST-NN-Optimization](https://github.com/Zane-dev16/FashionMNIST-NN-Optimization)**
+
 * **[Clustering-and-Classifying-Olivetti-Faces](https://github.com/Zane-dev16/Clustering-and-Classifying-Olivetti-Faces)**
 
 * **[Dimensionality Reduction Notebooks](https://github.com/Zane-dev16/Dimensionality-Reduction-Notebooks)**
