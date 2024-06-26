@@ -2,8 +2,9 @@
 
 Welcome to the Data Science Projects Collection repository! This README serves as an index for my various data science projects and machine learning projects.
 
-Here's a list of projects included in this collection:
-(Each project repository contains more details in each one's individual README)
+Here's a list of projects included in this collection. Head to each link for more details explaining each project:
+
+* **[CIFAR-100-DNN-Optimization](https://github.com/Zane-dev16/CIFAR-100-DNN-optimization))**
 
 * **[FashionMNIST-NN-Optimization](https://github.com/Zane-dev16/FashionMNIST-NN-Optimization)**
 
