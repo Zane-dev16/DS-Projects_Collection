@@ -2,7 +2,7 @@
 
 Welcome to the Data Science Projects Collection repository! This README serves as an index for my various data science projects and machine learning projects.
 
-Here's a list of projects included in this collection:
+Here's a list of projects included in this collection (Each project repository contains more details in each one's individual README):
 
 * **[FashionMNIST-NN-Optimization](https://github.com/Zane-dev16/FashionMNIST-NN-Optimization)**
 
@@ -24,4 +24,4 @@ Here's a list of projects included in this collection:
 
 * **[MNIST Classification](https://github.com/Zane-dev16/Classifying-the-MNIST)**
 
-Each project repository contains more details in each one's individual README
+
